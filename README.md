@@ -1,121 +1,84 @@
-# Olá! Eu sou Márcio Martins 👋
+# Márcio Martins
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas pela Universidade Santo Amaro (UNISA), em 2024.  
-💻 Em busca da primeira oportunidade profissional em Tecnologia da Informação.  
-📚 Estudando e praticando programação por meio de projetos acadêmicos e pessoais.  
-📍 São Vicente, São Paulo, Brasil.
+### Desenvolvedor em formação | Java • Python • Desenvolvimento Web
+
+Sou tecnólogo em **Análise e Desenvolvimento de Sistemas pela UNISA (2024)** e utilizo projetos práticos para desenvolver minhas habilidades em programação. Tenho interesse em desenvolvimento de software, orientação a objetos, aplicações web e boas práticas de código.
 
 [LinkedIn](https://www.linkedin.com/in/marcio-martins-eufrazio/) · [GitHub](https://github.com/Marcio-Martins)
 
-## Sobre mim
+---
 
-Estou iniciando minha trajetória profissional em tecnologia e utilizando projetos práticos para consolidar meus conhecimentos. Tenho interesse em desenvolvimento de software e web, resolução de problemas e boas práticas de programação.
+## 🧰 Tecnologias em estudo
 
-Minha experiência profissional anterior em diferentes ambientes de trabalho também contribuiu para desenvolver responsabilidade, adaptação e colaboração. Quero continuar aprendendo e contribuir com uma equipe enquanto evoluo tecnicamente.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-## Tecnologias e conhecimentos em desenvolvimento
+> Tecnologias com as quais estudo e pratico. Os projetos publicados mostram meu progresso e não representam, necessariamente, experiência profissional.
 
-As tecnologias abaixo fazem parte dos meus estudos e projetos:
+## 🚀 Projetos em destaque
 
-- **Java:** fundamentos, orientação a objetos e Collections.
-- **Python:** lógica de programação, funções, validação de entradas e testes com `unittest`.
-- **Desenvolvimento web:** HTML, CSS, JavaScript e PHP.
+| Projeto | O que demonstra |
+| --- | --- |
+| [**Simulação de Urna Eletrônica**](https://github.com/Marcio-Martins/Projeto-Integrador) | Projeto acadêmico em Python com validação de entradas, apuração de votos e testes automatizados. Simulação educacional, não um sistema eleitoral oficial. |
+| [**Desafio iPhone — POO**](https://github.com/Marcio-Martins/Desafio-iPhone--POO) | Modelagem orientada a objetos em Java, com interfaces para funções de música, telefone e navegador. |
+| [**Cadastro de Funcionários**](https://github.com/Marcio-Martins/Teste_Cadastro_funcionarios) | Aplicação web de estudo em PHP para cadastrar, listar, editar, excluir e exportar registros. |
+| [**Trabalho Web**](https://github.com/Marcio-Martins/Trabalho-Web) | Projeto acadêmico com HTML, CSS, JavaScript e PHP. |
+| [**Trilha Java Básico**](https://github.com/Marcio-Martins/dio-trilha-java-basico) | Exercícios práticos sobre fundamentos da linguagem Java. |
 
-> Estou em fase de desenvolvimento dessas competências; esta lista não representa níveis de especialização.
+## 🎓 Formação
 
-## Projetos em destaque
-
-### [Simulação de Urna Eletrônica em Python](https://github.com/Marcio-Martins/Projeto-Integrador)
-Projeto acadêmico que simula uma votação, com validação de entradas, apuração de votos e testes automatizados. É uma simulação educacional, não um sistema eleitoral oficial.
-
-### [Desafio iPhone — POO em Java](https://github.com/Marcio-Martins/Desafio-iPhone--POO)
-Exercício de orientação a objetos que modela funcionalidades de reprodutor musical, aparelho telefônico e navegador por meio de interfaces.
-
-### [Trilha Java Básico](https://github.com/Marcio-Martins/dio-trilha-java-basico)
-Exercícios de estudo sobre fundamentos da linguagem Java.
-
-### [Cadastro de Funcionários em PHP](https://github.com/Marcio-Martins/Teste_Cadastro_funcionarios)
-Projeto web de estudo com páginas para cadastrar, listar, editar, excluir e exportar registros de funcionários.
-
-### [Trabalho Web — Projeto Integrador](https://github.com/Marcio-Martins/Trabalho-Web)
-Projeto acadêmico web que reúne HTML, CSS, JavaScript e PHP.
-
-## Formação
-
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Universidade Santo Amaro (UNISA), conclusão em 2024.
+- **Análise e Desenvolvimento de Sistemas** — Universidade Santo Amaro (UNISA), concluído em 2024.
 - **Programação Python do Zero ao Avançado** — Udemy.
 - **Introdução a HTML5, CSS, JavaScript e PHP** — Estácio (170 horas).
 
-## Objetivos profissionais
+## 🎯 Objetivos
 
-- Conquistar uma oportunidade de estágio ou posição de nível inicial em TI.
-- Fortalecer fundamentos de programação e resolução de problemas.
-- Melhorar a qualidade, a organização e a documentação dos meus projetos.
-- Aprender com feedback e colaborar com uma equipe de desenvolvimento.
+- Consolidar fundamentos de programação, orientação a objetos e testes.
+- Aprimorar a organização, a documentação e a qualidade dos projetos.
+- Desenvolver aplicações úteis e aprender com feedback e colaboração.
+- Buscar uma oportunidade profissional de nível inicial em tecnologia.
 
-## Contato
+## 📫 Contato
+
+Estou aberto a oportunidades de nível inicial, projetos colaborativos e troca de conhecimento.
 
 - **LinkedIn:** [marcio-martins-eufrazio](https://www.linkedin.com/in/marcio-martins-eufrazio/)
 - **GitHub:** [@Marcio-Martins](https://github.com/Marcio-Martins)
 
 ---
 
-# Hi! I'm Márcio Martins 👋
+# English
 
-🎓 Graduated in Systems Analysis and Development from Universidade Santo Amaro (UNISA), in 2024.  
-💻 Seeking my first professional opportunity in Information Technology.  
-📚 Learning and practicing programming through academic and personal projects.  
-📍 São Vicente, São Paulo, Brazil.
+### Aspiring Developer | Java • Python • Web Development
 
-[LinkedIn](https://www.linkedin.com/in/marcio-martins-eufrazio/) · [GitHub](https://github.com/Marcio-Martins)
+I hold a degree in **Systems Analysis and Development from UNISA (2024)** and use hands-on projects to strengthen my programming skills. My interests include software development, object-oriented programming, web applications, and coding best practices.
 
-## About me
+## 🧰 Technologies I’m learning
 
-I am starting my professional journey in technology and using practical projects to strengthen my knowledge. I am interested in software and web development, problem-solving, and programming best practices.
+Java · Python · HTML · CSS · JavaScript · PHP
 
-My previous experience in different work environments has also helped me develop responsibility, adaptability, and collaboration. I want to keep learning and contribute to a team while improving my technical skills.
+These technologies reflect my current learning and practice, not claims of expert-level proficiency.
 
-## Technologies and learning areas
+## 🚀 Featured projects
 
-The following technologies are part of my studies and projects:
+- [**Electronic Ballot Simulation**](https://github.com/Marcio-Martins/Projeto-Integrador) — Academic Python project featuring input validation, vote counting, and automated tests. An educational simulation, not an official election system.
+- [**iPhone Challenge — OOP in Java**](https://github.com/Marcio-Martins/Desafio-iPhone--POO) — Object-oriented design using interfaces to model music player, phone, and browser features.
+- [**Employee Registration**](https://github.com/Marcio-Martins/Teste_Cadastro_funcionarios) — PHP web practice project for creating, listing, editing, deleting, and exporting records.
+- [**Web Assignment**](https://github.com/Marcio-Martins/Trabalho-Web) — Academic project using HTML, CSS, JavaScript, and PHP.
+- [**Java Basics Learning Path**](https://github.com/Marcio-Martins/dio-trilha-java-basico) — Practical exercises covering Java fundamentals.
 
-- **Java:** fundamentals, object-oriented programming, and Collections.
-- **Python:** programming logic, functions, input validation, and tests with `unittest`.
-- **Web development:** HTML, CSS, JavaScript, and PHP.
+## 🎯 Current goals
 
-> I am still developing these skills; this list does not imply expert-level proficiency.
+- Strengthen programming fundamentals, OOP, and testing.
+- Improve project structure, documentation, and code quality.
+- Build useful applications and learn through feedback and collaboration.
+- Pursue an entry-level opportunity in technology.
 
-## Featured projects
-
-### [Electronic Ballot Simulation in Python](https://github.com/Marcio-Martins/Projeto-Integrador)
-An academic project that simulates an election, including input validation, vote counting, and automated tests. It is an educational simulation, not an official election system.
-
-### [iPhone Challenge — OOP in Java](https://github.com/Marcio-Martins/Desafio-iPhone--POO)
-An object-oriented programming exercise modeling music player, phone, and browser features through interfaces.
-
-### [Java Basics Learning Path](https://github.com/Marcio-Martins/dio-trilha-java-basico)
-Study exercises covering Java fundamentals.
-
-### [Employee Registration in PHP](https://github.com/Marcio-Martins/Teste_Cadastro_funcionarios)
-A study web project with pages to create, list, edit, delete, and export employee records.
-
-### [Web Assignment — Integrative Project](https://github.com/Marcio-Martins/Trabalho-Web)
-An academic web project using HTML, CSS, JavaScript, and PHP.
-
-## Education
-
-- **Degree in Systems Analysis and Development** — Universidade Santo Amaro (UNISA), completed in 2024.
-- **Python Programming from Zero to Advanced** — Udemy.
-- **Introduction to HTML5, CSS, JavaScript, and PHP** — Estácio (170 hours).
-
-## Career goals
-
-- Obtain an internship or entry-level IT position.
-- Strengthen programming fundamentals and problem-solving skills.
-- Improve the quality, structure, and documentation of my projects.
-- Learn from feedback and collaborate with a software development team.
-
-## Contact
+## 📫 Connect
 
 - **LinkedIn:** [marcio-martins-eufrazio](https://www.linkedin.com/in/marcio-martins-eufrazio/)
 - **GitHub:** [@Marcio-Martins](https://github.com/Marcio-Martins)
